@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CelianOS</string>
+    <string name="accessibility_description">Affiche la Dynamic Island CélianOS au-dessus de la barre d\'état.</string>
+</resources>
