@@ -3,7 +3,7 @@
 Application Android personnelle (Kotlin + Jetpack Compose) qui ajoute trois modules façon « OS » par-dessus Android : une **Dynamic Island** flottante, un **Spotlight** de recherche globale avec assistant, et un **Glow Dock** pour transformer le téléphone en lecteur de bureau relié au PC.
 
 > [!WARNING]
-> Projet personnel, en cours de développement (v1.0). Le code est publié tel quel, sans garantie.
+> Projet personnel, en cours de développement (v0.5). Le code est publié tel quel, sans garantie.
 
 ## Fonctionnalités
 
